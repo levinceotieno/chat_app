@@ -2,6 +2,7 @@
 2023 dec
 
 **_Overview_**
+
 This project is a dynamic chat application that utilizes WebSocket and WebSocket.io for real-time communication. While it's already functional, we acknowledge there's always room for improvement.
 
 **_Features_**
